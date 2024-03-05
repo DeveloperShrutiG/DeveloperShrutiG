@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeveloperShrutiG
-- 👀 I’m interested in development
-- 🌱 I’m currently learning data structures and web development
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in making your data tell a story📈
+- 🌱 I’m currently seeking a job in Data Science domain
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me :- https://www.linkedin.com/in/shruti-gore-87a70321a/
 
 <!---
