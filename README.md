@@ -1,7 +1,3 @@
-Sure! Here's a professional and elaborative bio for your GitHub profile:
-
----
-
 ## About Me
 
 Hello, I'm an aspiring Data and IT professional passionate about leveraging data analytics and data science to drive impactful business decisions. With a solid background in analytical and business analysis, I bring a unique blend of technical skills and practical experience to every project I undertake.
@@ -29,24 +25,6 @@ I am open to new opportunities and look forward to contributing to projects that
 
 ---
 
-Feel free to adjust any part of this bio to better suit your preferences or add any additional information you find relevant.
-
-
-
-
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @DeveloperShrutiG
-- 👀 I’m interested in making your data tell a story📈
-- 🌱 I’m currently seeking a job in Data Science domain
-- 💞️ I’m looking to collaborate on Data Analytics Projects
-- 📫 How to reach me :- https://www.linkedin.com/in/shruti-gore-87a70321a/
 
 <!---
 DeveloperShrutiG/DeveloperShrutiG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
